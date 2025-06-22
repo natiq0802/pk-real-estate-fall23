@@ -1,6 +1,9 @@
 # pk-real-estate-fall23
  Project for LUMS
 
+You can read the full analysis on my blog: https://wp.nyu.edu/natiqkhan/pk-real-estate-2023/
+
+
 ⚠️ Disclaimer:  
 ⚠️ The Jupyter notebook and data is part of my CS-334 Project submitted in Fall 2023.  
 ⚠️ It is shared here for educational insight and portfolio purposes only.  
