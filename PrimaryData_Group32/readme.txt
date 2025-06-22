@@ -1,0 +1,4 @@
+GROUP'S NOTE:
+Our group came up with 2 different methods of web-scraping, which gave slightly different outputs. We have decided to include both implementations in our submission along with data extracted with it.  
+
+Implementation-A: Is asynchronous and is able to extract data much quicker and efficiently for multiple cities at once. However, for some entries the title was being repeated from previous entries. Moreover, if the Zameen.com server would timeout (which it often did) we would have to restart all over again.   Implementation-B: Is sequential and while it is much slower than Implementation-A it has fewer glitches in the data.  
